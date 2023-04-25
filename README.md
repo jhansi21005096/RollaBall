@@ -1,6 +1,8 @@
 # RollaBall
 
 ## Aim:
+To Roll a Ball using C# program in unity.
+
 
 ## Algorithm:
 
@@ -43,6 +45,7 @@ Copy the PlayerController and drag to Script folder
 Double click the PlayerController file and type the coding
 
 ## Program:
+```
 Developed by: K.Jhansi
 
 refno:212221230045
@@ -122,6 +125,9 @@ public class NewBehaviourScript : MonoBehaviour
 }
 
 }
+```
 ## Output:
+![output]()
 
 ## Result:
+Thus a C# program to Roll a Ball in unity is written and executed sucessfully.
