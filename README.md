@@ -127,7 +127,7 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ```
 ## Output:
-![output]()
+![output](https://github.com/jhansi21005096/RollaBall/blob/main/outputroll.png)
 
 ## Result:
 Thus a C# program to Roll a Ball in unity is written and executed sucessfully.
